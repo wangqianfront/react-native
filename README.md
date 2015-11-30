@@ -100,4 +100,7 @@ React documentation is [Creative Commons licensed](./LICENSE-docs).
 
 Examples provided in this repository and in the documentation are [separately licensed](./LICENSE-examples), as are some of the [custom components](./LICENSE-CustomComponents).
 
-[React Native] (http://www.tuicool.com/articles/zaInUbA)
+## 学习资料
+ 1.[React Native 练习] (http://www.tuicool.com/articles/zaInUbA)
+ 2.[极客](http://wiki.jikexueyuan.com/project/react-native/)
+
